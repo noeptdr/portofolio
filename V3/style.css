@@ -38,6 +38,15 @@ nav a {
   text-decoration: none;
 }
 
+.profile {
+  background-color: #23272a;
+  width: 400px;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+
 .container {
   max-width: 900px;
   margin: auto;
