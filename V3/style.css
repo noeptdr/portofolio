@@ -33,10 +33,17 @@ header {
   height: 40px;
 }
 
+nav {
+  margin: 0 auto;
+  text-align: center;
+}
+
 nav a {
-  color: white;
-  margin: 0 10px;
+  margin: 0 15px;
   text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .profile {
