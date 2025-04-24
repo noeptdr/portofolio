@@ -21,6 +21,18 @@ body {
   margin-top: 40px;
 }
 
+nav {
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
 .profile {
   background-color: #23272a;
   width: 400px;
