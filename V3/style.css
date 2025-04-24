@@ -52,7 +52,7 @@ nav a {
   border-radius: 10px;
   overflow: hidden;
   text-align: center;
-  position: relative;
+  position: center;
 }
 
 .container {
